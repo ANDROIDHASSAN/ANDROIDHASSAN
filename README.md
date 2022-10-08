@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [hassankazi.netlify.app](hassankazi.netlify.app)
 
-- 💬 Ask me about **C,C++ and React,etc**
+- 💬 Ask me about **C,C++,Dsa,Codechefand React,etc**
 
 - 📫 How to reach me **hassankazinasik@gmail.com**
 
