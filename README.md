@@ -1,24 +1,23 @@
 <h1 align="center">Hi 👋, I'm Hassan Kazi</h1>
-<h3 align="center">A passionate Software Engineer and A Bug Bounty Hunter</h3>
+<h3 align="center">A passionate Web Developer And Problem Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=androidhassan&label=Profile%20views&color=0e75b6&style=flat" alt="androidhassan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=androidhassan" alt="androidhassan" /></a> </p>
 
-- 🌱 I’m currently learning **dsa,react in depth**
+- 🌱 I’m currently learning **Dsa, Full Stack**
 
-- 👨‍💻 All of my projects are available at [hassankazi.netlify.app](hassankazi.netlify.app)
+- 👨‍💻 All of my projects are available at [hassankazi3d.netlify.app](hassankazi3d.netlify.app)
 
-- 💬 Ask me about **C,C++,Dsa,Codechefand React,etc**
+- 💬 Ask me about **C,C++,Dsa,Codechef and React,etc**
 
 - 📫 How to reach me **hassankazinasik@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/hassankazi_48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassankazi_48" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hx4sn 999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hx4sn 999" height="30" width="40" /></a>
+<a href="https://instagram.com/hassu._.48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassu._.48" height="30" width="40" /></a>
+<!-- <a href="https://www.youtube.com/c/hx4sn 999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hx4sn 999" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
