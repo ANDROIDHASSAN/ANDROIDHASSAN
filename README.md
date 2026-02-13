@@ -9,6 +9,8 @@
 
 <ol>
   Current projects : 
+
+  
 1) Resume Generator as per jd and portfolio generator with resume (https://resume2portfolio-eight.vercel.app/) 
 2) Agency website ( freelancing project ) ( in progress ) : ( https://agency-website-eosin-one.vercel.app/ )
 3) School website ( freelancing project ) ( in progress ) : ( https://oxford-school-mp.vercel.app/ )
