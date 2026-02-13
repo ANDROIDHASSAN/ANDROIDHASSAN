@@ -3,7 +3,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=androidhassan&label=Profile%20views&color=0e75b6&style=flat" alt="androidhassan" /> </p>
 
+<h1>
+  Projects
+</h1>
 
+<ol>
+  Current projects : 
+1) Resume Generator as per jd and portfolio generator with resume (https://resume2portfolio-eight.vercel.app/) 
+2) Agency website ( freelancing project ) ( in progress ) : ( https://agency-website-eosin-one.vercel.app/ )
+3) School website ( freelancing project ) ( in progress ) : ( https://oxford-school-mp.vercel.app/ )
+
+Done : 
+
+1) Coffee website ui ( https://cofeewebsite-ui.vercel.app/ )
+2) project idea generator : Generate projects as per ideas ( https://projectgeneratorbyhassan.netlify.app/ )
+3) interify : crm for interior designers ( https://interify.in/ )
+4) cupcount : crm for chai shop owners ( https://www.cupcount.in/ )
+
+</ol>
 
 - 🌱 I’m currently learning **Dsa, Full Stack**
 
