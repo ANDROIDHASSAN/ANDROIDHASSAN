@@ -21,6 +21,7 @@ Done :
 2) project idea generator : Generate projects as per ideas ( https://projectgeneratorbyhassan.netlify.app/ )
 3) interify : crm for interior designers ( https://interify.in/ )
 4) cupcount : crm for chai shop owners ( https://www.cupcount.in/ )
+5) Hubertix ( digital marketing + video editing ageny website ) ( https://hubertix.netlify.app/ )
 
 </ol>
 
