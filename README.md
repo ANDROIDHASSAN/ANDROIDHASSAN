@@ -30,7 +30,6 @@
 <!-- After you create it: <a href="https://huggingface.co/ANDROIDHASSAN"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a> -->
 </p>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=androidhassan&label=Profile%20Views&color=3FB950&style=for-the-badge" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/androidhassan?label=Followers&style=for-the-badge&color=3FB950" alt="Followers"/>
 </p>
 
