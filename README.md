@@ -55,8 +55,8 @@ I build **real-time voice agents**, and I'm chasing one question: **why do voice
 <td width="45%" align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/voice-orb-dark.svg">
-  <img alt="Animated voice agent orb: listening and speaking" src="./assets/voice-orb-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/voice-orb-dark.svg">
+  <img alt="Animated voice agent orb: listening and speaking" src="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/voice-orb-light.svg" width="100%">
 </picture>
 
 </td>
@@ -68,8 +68,8 @@ I build **real-time voice agents**, and I'm chasing one question: **why do voice
 <h2 align="center">🖥️ hassan@voice-lab</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/neofetch-dark.svg">
-  <img alt="hassan@voice-lab: Voice AI Engineer at InCruiter; 1,000+ concurrent interviews in 42+ languages; LiveKit Agents, Vapi, WebRTC; building own STT, TTS and LLM." src="./assets/neofetch-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/neofetch-dark.svg">
+  <img alt="hassan@voice-lab: Voice AI Engineer at InCruiter; 1,000+ concurrent interviews in 42+ languages; LiveKit Agents, Vapi, WebRTC; building own STT, TTS and LLM." src="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/neofetch-light.svg" width="100%">
 </picture>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -77,8 +77,8 @@ I build **real-time voice agents**, and I'm chasing one question: **why do voice
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="34" alt=""/> How a Production Voice Agent Works</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/architecture-dark.svg">
-  <img alt="Architecture of a real-time voice interviewer: candidate over WebRTC to a LiveKit room; Python agent worker with VAD, Sarvam STT, GPT-4.1 with tools and streamed TTS; script-aware guards and feature flags; CI/CD to LiveKit Cloud." src="./assets/architecture-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/architecture-dark.svg">
+  <img alt="Architecture of a real-time voice interviewer: candidate over WebRTC to a LiveKit room; Python agent worker with VAD, Sarvam STT, GPT-4.1 with tools and streamed TTS; script-aware guards and feature flags; CI/CD to LiveKit Cloud." src="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/architecture-light.svg" width="100%">
 </picture>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -88,34 +88,34 @@ I build **real-time voice agents**, and I'm chasing one question: **why do voice
 <table align="center" width="100%">
 <tr>
 <td width="50%"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-own-voice-models-dark.svg">
-  <img alt="own-voice-models: my own STT, LLM and TTS with a streaming orchestrator. Building." src="./assets/card-own-voice-models-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/card-own-voice-models-dark.svg">
+  <img alt="own-voice-models: my own STT, LLM and TTS with a streaming orchestrator. Building." src="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/card-own-voice-models-light.svg" width="100%">
 </picture></td>
 <td width="50%"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-indic-guard-dark.svg">
-  <img alt="indic-guard: script-aware text matching for Devanagari and romanized replies. Next." src="./assets/card-indic-guard-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/card-indic-guard-dark.svg">
+  <img alt="indic-guard: script-aware text matching for Devanagari and romanized replies. Next." src="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/card-indic-guard-light.svg" width="100%">
 </picture></td>
 </tr>
 <tr>
 <td width="50%"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-indic-voice-bench-dark.svg">
-  <img alt="IndicVoiceBench: open benchmark of STT and TTS on Indian phone audio. Next." src="./assets/card-indic-voice-bench-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/card-indic-voice-bench-dark.svg">
+  <img alt="IndicVoiceBench: open benchmark of STT and TTS on Indian phone audio. Next." src="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/card-indic-voice-bench-light.svg" width="100%">
 </picture></td>
 <td width="50%"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-hinglish-turn-detector-dark.svg">
-  <img alt="Hinglish Turn Detector: end-of-turn model for code-mixed speech. Planned." src="./assets/card-hinglish-turn-detector-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/card-hinglish-turn-detector-dark.svg">
+  <img alt="Hinglish Turn Detector: end-of-turn model for code-mixed speech. Planned." src="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/card-hinglish-turn-detector-light.svg" width="100%">
 </picture></td>
 </tr>
 </table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/pipeline-dark.svg">
-  <img alt="Voice agent pipeline with the project that targets each stage and its status." src="./assets/pipeline-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/pipeline-dark.svg">
+  <img alt="Voice agent pipeline with the project that targets each stage and its status." src="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/pipeline-light.svg" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/latency-dark.svg">
-  <img alt="Target voice-to-voice latency budget of about 800 ms, not yet measured." src="./assets/latency-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/latency-dark.svg">
+  <img alt="Target voice-to-voice latency budget of about 800 ms, not yet measured." src="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/latency-light.svg" width="100%">
 </picture>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
