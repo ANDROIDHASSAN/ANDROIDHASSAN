@@ -38,13 +38,14 @@
 <tr>
 <td width="55%" valign="top">
 
-<h2>🎙️ About Me</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" alt=""/> About Me</h2>
 
 I build **real-time voice agents**, and I'm chasing one question: **why do voice agents break on real Indian speech, and how do we fix it?**
 
 - 🏢 **Now:** Product Developer at [InCruiter](https://incruiter.com), leading the AI & real-time stack behind **InCBot** and **IncScreen**
 - ⚡ **Scale:** AI interviewers running **1,000+ concurrent interviews** in **42+ languages**
 - 🐛 **Found in prod:** English-only guards scored Devanagari **0.39 vs a 0.5 threshold**; Marathi STT **hallucinated in 10 of 15 turns**
+- 🔧 **Open source:** PR in review at [livekit/agents](https://github.com/livekit/agents/pulls?q=is%3Apr+author%3AANDROIDHASSAN): bit-rate options for `RecorderIO`
 - 🔭 **Building:** my own Hindi/Marathi STT + TTS + LLM and a from-scratch streaming orchestrator
 - 📄 **Learning:** rebuilding transformers, Whisper, VITS and Moshi from the original papers
 - 🏆 **Also:** 9× hackathon winner · CodeChef 3★ · AI Engineer at myRide (Boston, remote) before
@@ -68,12 +69,12 @@ I build **real-time voice agents**, and I'm chasing one question: **why do voice
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/neofetch-dark.svg">
-  <img alt="hassan@voice-lab: Voice AI Research Engineer at InCruiter; 1,000+ concurrent interviews in 42+ languages; LiveKit Agents, Vapi, WebRTC; building own STT, TTS and LLM." src="./assets/neofetch-light.svg" width="100%">
+  <img alt="hassan@voice-lab: Voice AI Engineer at InCruiter; 1,000+ concurrent interviews in 42+ languages; LiveKit Agents, Vapi, WebRTC; building own STT, TTS and LLM." src="./assets/neofetch-light.svg" width="100%">
 </picture>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2 align="center">🧠 How a Production Voice Agent Works</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="34" alt=""/> How a Production Voice Agent Works</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/architecture-dark.svg">
@@ -82,7 +83,7 @@ I build **real-time voice agents**, and I'm chasing one question: **why do voice
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2 align="center" id="building-in-public">🚀 Building in Public</h2>
+<h2 align="center" id="building-in-public"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="34" alt=""/> Building in Public</h2>
 
 <table align="center" width="100%">
 <tr>
@@ -132,7 +133,7 @@ I build **real-time voice agents**, and I'm chasing one question: **why do voice
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-<h2>🔥 Toolbelt & Tech Stack</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="34" alt=""/> Toolbelt & Tech Stack</h2>
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
 
 <p><b>🎙️ Voice AI</b></p>
@@ -176,8 +177,8 @@ _Updates automatically every day from my public repos._
 <h3>✍️ Writing & Open Source</h3>
 
 - 📝 *Why voice agents break on Hindi: 4 failure modes* (draft)
-- 🔧 Next: [livekit/agents](https://github.com/livekit/agents) — Indic fixes in the Sarvam plugin
-<!-- After your first merged PR, change the line above to: "Merged PRs in livekit/agents: <link>" -->
+- 🔧 PR in review: [livekit/agents](https://github.com/livekit/agents/pulls?q=is%3Apr+author%3AANDROIDHASSAN) — `feat(voice)`: bit-rate options for `RecorderIO`
+<!-- When it merges, change "PR in review" to "Merged PRs in". Next up: Indic fixes in the Sarvam plugin. -->
 - 🛠️ Earlier I shipped CRMs: [Interify](https://interify.in) · [CupCount](https://www.cupcount.in)
 
 </td>
@@ -187,7 +188,7 @@ _Updates automatically every day from my public repos._
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-<h2>🏆 GitHub Analytics</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="34" alt=""/> GitHub Analytics</h2>
 <img src="https://streak-stats.demolab.com/?user=androidhassan&theme=github-dark-blue&hide_border=true&ring=3FB950&fire=3FB950&currStreakLabel=3FB950" alt="GitHub streak"/>
 <br><br>
 <picture>
