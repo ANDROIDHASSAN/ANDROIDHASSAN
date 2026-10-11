@@ -12,7 +12,7 @@
 
 <!-- 🌊 Wave header -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:0e4429,100:3fb950&height=230&section=header&text=Hassan%20Kazi&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Voice%20AI%20Engineer%20%C2%B7%20Real-time%20Voice%20Agents%20%C2%B7%20Indic%20Speech&descSize=19&descAlignY=58" width="100%"/>
+<img src="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/hero.svg" width="100%" alt="Hassan Kazi. Voice AI Engineer: real-time voice agents and Indic speech."/>
 </div>
 
 <!-- ⌨️ Typing text -->
@@ -63,7 +63,10 @@ I build **real-time voice agents**, and I'm chasing one question: **why do voice
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/divider-dark.svg">
+  <img alt="" src="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/divider-light.svg" width="100%">
+</picture>
 
 <h2 align="center">🖥️ hassan@voice-lab</h2>
 
@@ -72,7 +75,10 @@ I build **real-time voice agents**, and I'm chasing one question: **why do voice
   <img alt="hassan@voice-lab: Voice AI Engineer at InCruiter; 1,000+ concurrent interviews in 42+ languages; LiveKit Agents, Vapi, WebRTC; building own STT, TTS and LLM." src="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/neofetch-light.svg" width="100%">
 </picture>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/divider-dark.svg">
+  <img alt="" src="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/divider-light.svg" width="100%">
+</picture>
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="34" alt=""/> How a Production Voice Agent Works</h2>
 
@@ -81,7 +87,10 @@ I build **real-time voice agents**, and I'm chasing one question: **why do voice
   <img alt="Architecture of a real-time voice interviewer: candidate over WebRTC to a LiveKit room; Python agent worker with VAD, Sarvam STT, GPT-4.1 with tools and streamed TTS; script-aware guards and feature flags; CI/CD to LiveKit Cloud." src="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/architecture-light.svg" width="100%">
 </picture>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/divider-dark.svg">
+  <img alt="" src="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/divider-light.svg" width="100%">
+</picture>
 
 <h2 align="center" id="building-in-public"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="34" alt=""/> Building in Public</h2>
 
@@ -118,7 +127,10 @@ I build **real-time voice agents**, and I'm chasing one question: **why do voice
   <img alt="Target voice-to-voice latency budget of about 800 ms, not yet measured." src="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/latency-light.svg" width="100%">
 </picture>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/divider-dark.svg">
+  <img alt="" src="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/divider-light.svg" width="100%">
+</picture>
 
 <h2 align="center">📄 Rebuilding the AI Stack from the Papers Up</h2>
 
@@ -130,7 +142,10 @@ I build **real-time voice agents**, and I'm chasing one question: **why do voice
 
 <p align="center"><sub>One repo per paper, each with notes on what I learned.</sub></p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/divider-dark.svg">
+  <img alt="" src="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/divider-light.svg" width="100%">
+</picture>
 
 <div align="center">
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="34" alt=""/> Toolbelt & Tech Stack</h2>
@@ -160,7 +175,10 @@ I build **real-time voice agents**, and I'm chasing one question: **why do voice
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=githubactions,linux,git,postgres,mongodb,react,nextjs,pytorch&perline=8" /></a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/divider-dark.svg">
+  <img alt="" src="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/divider-light.svg" width="100%">
+</picture>
 
 <table align="center" width="100%">
 <tr>
@@ -168,11 +186,13 @@ I build **real-time voice agents**, and I'm chasing one question: **why do voice
 
 <h3>🕒 Recently Pushed</h3>
 <!-- recent_pushes starts -->
+
 - [The-Consistent-Coders](https://github.com/ANDROIDHASSAN/The-Consistent-Coders) — This is a inituative for beginners , freshers and freelancers to crack their… · 2026-09-20
 - [Jewelery-crm](https://github.com/ANDROIDHASSAN/Jewelery-crm) — Jewellery management website and crm and pos · 2026-07-15
 - [consistentcoders](https://github.com/ANDROIDHASSAN/consistentcoders) — Apply with your friends and get further · 2026-07-10
 - [emmortal-crm](https://github.com/ANDROIDHASSAN/emmortal-crm) — E-mmortal Operations CRM + Storefront — full-stack MERN CRM for custom lithium… · 2026-06-27
 - [incruiter-particle-hero](https://github.com/ANDROIDHASSAN/incruiter-particle-hero) — Scroll-driven morphing particle hero for InCruiter — React Three Fiber · 2026-06-21
+
 <!-- recent_pushes ends -->
 
 </td>
@@ -189,18 +209,22 @@ I build **real-time voice agents**, and I'm chasing one question: **why do voice
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/divider-dark.svg">
+  <img alt="" src="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/divider-light.svg" width="100%">
+</picture>
 
 <div align="center">
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="34" alt=""/> GitHub Analytics</h2>
-<img src="https://streak-stats.demolab.com/?user=androidhassan&theme=github-dark-blue&hide_border=true&ring=3FB950&fire=3FB950&currStreakLabel=3FB950" alt="GitHub streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=androidhassan&hide_border=true&background=00000000&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&stroke=30363D">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=androidhassan&hide_border=true&background=00000000&ring=1A7F37&fire=1A7F37&currStreakLabel=1A7F37&currStreakNum=1F2328&sideNums=1F2328&sideLabels=57606A&dates=57606A&stroke=D0D7DE">
+</picture>
 <br><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/output/github-snake-dark.svg">
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/output/github-snake.svg" width="100%">
 </picture>
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="420">
 </div>
 
 <!-- 🌊 Wave footer -->

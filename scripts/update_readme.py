@@ -49,7 +49,8 @@ def main():
     text = README.read_text(encoding="utf-8")
     block = "\n".join(build_lines(fetch_repos()))
     pattern = re.compile(re.escape(START) + r".*?" + re.escape(END), re.S)
-    new_text = pattern.sub(f"{START}\n{block}\n{END}", text)
+    # Blank lines are required: without them GitHub renders the list as raw text inside the <td>.
+    new_text = pattern.sub(lambda _: f"{START}\n\n{block}\n\n{END}", text)
     if new_text != text:
         README.write_text(new_text, encoding="utf-8")
         print("README updated")
