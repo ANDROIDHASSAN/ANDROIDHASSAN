@@ -186,11 +186,11 @@ I build **real-time voice agents**, and I'm chasing one question: **why do voice
 <h3>🕒 Recently Pushed</h3>
 <!-- recent_pushes starts -->
 
+- [portfolio](https://github.com/ANDROIDHASSAN/portfolio) — My portfolio (hassankazi.vercel.app) and the LiveKit voice agent behind its… · 2026-10-12
 - [The-Consistent-Coders](https://github.com/ANDROIDHASSAN/The-Consistent-Coders) — This is a inituative for beginners , freshers and freelancers to crack their… · 2026-09-20
 - [Jewelery-crm](https://github.com/ANDROIDHASSAN/Jewelery-crm) — Jewellery management website and crm and pos · 2026-07-15
 - [consistentcoders](https://github.com/ANDROIDHASSAN/consistentcoders) — Apply with your friends and get further · 2026-07-10
 - [emmortal-crm](https://github.com/ANDROIDHASSAN/emmortal-crm) — E-mmortal Operations CRM + Storefront — full-stack MERN CRM for custom lithium… · 2026-06-27
-- [incruiter-particle-hero](https://github.com/ANDROIDHASSAN/incruiter-particle-hero) — Scroll-driven morphing particle hero for InCruiter — React Three Fiber · 2026-06-21
 
 <!-- recent_pushes ends -->
 
