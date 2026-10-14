@@ -186,11 +186,11 @@ I build **real-time voice agents**, and I'm chasing one question: **why do voice
 <h3>🕒 Recently Pushed</h3>
 <!-- recent_pushes starts -->
 
-- [portfolio](https://github.com/ANDROIDHASSAN/portfolio) — My portfolio (hassankazi.vercel.app) and the LiveKit voice agent behind its… · 2026-10-12
-- [The-Consistent-Coders](https://github.com/ANDROIDHASSAN/The-Consistent-Coders) — This is a inituative for beginners , freshers and freelancers to crack their… · 2026-09-20
-- [Jewelery-crm](https://github.com/ANDROIDHASSAN/Jewelery-crm) — Jewellery management website and crm and pos · 2026-07-15
-- [consistentcoders](https://github.com/ANDROIDHASSAN/consistentcoders) — Apply with your friends and get further · 2026-07-10
-- [emmortal-crm](https://github.com/ANDROIDHASSAN/emmortal-crm) — E-mmortal Operations CRM + Storefront — full-stack MERN CRM for custom lithium… · 2026-06-27
+- [quant-flash](https://github.com/ANDROIDHASSAN/quant-flash) — LLM.int8(), GPTQ and FlashAttention implemented from scratch in PyTorch (+ a… · 2026-10-14
+- [speculative-decoding](https://github.com/ANDROIDHASSAN/speculative-decoding) — Speculative sampling (Leviathan et al. 2023) from scratch on a hand-written… · 2026-10-14
+- [whisper-from-scratch](https://github.com/ANDROIDHASSAN/whisper-from-scratch) — Whisper reimplemented from scratch in PyTorch: exact audio front-end, encoder-… · 2026-10-14
+- [attention-is-all-you-need-hindi](https://github.com/ANDROIDHASSAN/attention-is-all-you-need-hindi) — Transformer (Vaswani et al. 2017) from scratch in PyTorch: English to Hindi… · 2026-10-14
+- [post-training](https://github.com/ANDROIDHASSAN/post-training) — LoRA, DPO and GRPO implemented from scratch on a hand-written Llama/Qwen2… · 2026-10-13
 
 <!-- recent_pushes ends -->
 
