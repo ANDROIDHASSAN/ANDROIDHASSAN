@@ -44,7 +44,7 @@ I build **real-time voice agents**, and I'm chasing one question: **why do voice
 - 🏢 **Now:** Product Developer at [InCruiter](https://incruiter.com), leading the AI & real-time stack behind **InCBot** and **IncScreen**
 - ⚡ **Scale:** AI interviewers running **1,000+ concurrent interviews** in **42+ languages**
 - 🐛 **Found in prod:** English-only guards scored Devanagari **0.39 vs a 0.5 threshold**; Marathi STT **hallucinated in 10 of 15 turns**
-- 🔧 **Open source:** PR in review at [livekit/agents](https://github.com/livekit/agents/pulls?q=is%3Apr+author%3AANDROIDHASSAN): bit-rate options for `RecorderIO`
+- 🔧 **Open source:** 11 merged fixes in [LiveKit](https://github.com/pulls?q=is%3Apr+author%3AANDROIDHASSAN+org%3Alivekit+is%3Amerged) (agents, python-sdks), [Piper TTS](https://github.com/OHF-Voice/piper1-gpl/pull/328), [Mastra](https://github.com/mastra-ai/mastra/pull/27102) and KoljaB's RealtimeSTT / RealtimeTTS / stream2sentence (Indic and Urdu text); [all merged PRs](https://github.com/pulls?q=is%3Apr+author%3AANDROIDHASSAN+is%3Amerged+-user%3AANDROIDHASSAN)
 - 🔭 **Building:** my own Hindi/Marathi STT + TTS + LLM and a from-scratch streaming orchestrator
 - 📄 **Learning:** rebuilding transformers, Whisper, VITS and Moshi from the original papers
 - 🏆 **Also:** 9× hackathon winner · CodeChef 3★ · AI Engineer at myRide (Boston, remote) before
@@ -200,8 +200,12 @@ I build **real-time voice agents**, and I'm chasing one question: **why do voice
 <h3>✍️ Writing & Open Source</h3>
 
 - 📝 *Why voice agents break on Hindi: 4 failure modes* (draft)
-- 🔧 PR in review: [livekit/agents](https://github.com/livekit/agents/pulls?q=is%3Apr+author%3AANDROIDHASSAN) — `feat(voice)`: bit-rate options for `RecorderIO`
-<!-- When it merges, change "PR in review" to "Merged PRs in". Next up: Indic fixes in the Sarvam plugin. -->
+- ✅ **11 merged fixes** ([all](https://github.com/pulls?q=is%3Apr+author%3AANDROIDHASSAN+is%3Amerged+-user%3AANDROIDHASSAN)):
+  - **LiveKit** · agents [#7741](https://github.com/livekit/agents/pull/7741) recorder no longer hangs when the encoder fails, [#7742](https://github.com/livekit/agents/pull/7742) XML depth check · python-sdks [#860](https://github.com/livekit/python-sdks/pull/860) webhook `sha256` claim, [#861](https://github.com/livekit/python-sdks/pull/861) Twirp base path behind proxies, [#862](https://github.com/livekit/python-sdks/pull/862) `AudioMixer` survives a late frame
+  - **Piper TTS** (Open Home Foundation) [#328](https://github.com/OHF-Voice/piper1-gpl/pull/328) Hebrew phonemizer in inference
+  - **Mastra** [#27102](https://github.com/mastra-ai/mastra/pull/27102) Sarvam `listen()` uses the configured model
+  - **RealtimeSTT** [#329](https://github.com/KoljaB/RealtimeSTT/pull/329) final full stop for Hindi/Bengali/Tamil, [#330](https://github.com/KoljaB/RealtimeSTT/pull/330) `feed_audio` on tiny chunks · **RealtimeTTS** [#383](https://github.com/KoljaB/RealtimeTTS/pull/383) ElevenLabs voice settings · **stream2sentence** [#16](https://github.com/KoljaB/stream2sentence/pull/16) Urdu sentence splitting
+- 🔧 In review: [LiveKit](https://github.com/livekit/agents/pulls?q=is%3Apr+author%3AANDROIDHASSAN), Pipecat, NVIDIA NeMo, sherpa-onnx, Piper, Sarvam skills ([open PRs](https://github.com/pulls?q=is%3Apr+author%3AANDROIDHASSAN+is%3Aopen+-user%3AANDROIDHASSAN))
 - 🛠️ Earlier I shipped CRMs: [Interify](https://interify.in) · [CupCount](https://www.cupcount.in)
 
 </td>
