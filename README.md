@@ -17,7 +17,7 @@
 
 <!-- ⌨️ Typing text -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=760&lines=%F0%9F%8E%99%EF%B8%8F%20Real-time%20Voice%20Agents%20%C2%B7%20LiveKit%20%C2%B7%20WebRTC;%E2%9A%A1%201%2C000%2B%20concurrent%20AI%20interviews%20in%20production;%F0%9F%87%AE%F0%9F%87%B3%20Making%20voice%20AI%20understand%20Hindi%20%26%20Marathi;%F0%9F%93%84%20Rebuilding%20Whisper%2C%20VITS%20%26%20Moshi%20from%20the%20papers;%F0%9F%A7%A0%20STT%20%E2%86%92%20LLM%20%E2%86%92%20TTS%20%C2%B7%20sub-second%20is%20the%20goal" alt="Real-time voice agents, 1,000+ concurrent AI interviews, Indic speech, paper reimplementations"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=760&lines=%F0%9F%8E%99%EF%B8%8F%20Real-time%20Voice%20Agents%20%C2%B7%20LiveKit%20%C2%B7%20WebRTC;%E2%9A%A1%201%2C000%2B%20concurrent%20AI%20interviews%20in%20production;%F0%9F%87%AE%F0%9F%87%B3%20Making%20voice%20AI%20understand%20Hindi%20%26%20Marathi;%F0%9F%93%84%20Rebuilding%20Whisper%2C%20VITS%20%26%20Moshi%20from%20the%20papers;%F0%9F%A7%A0%20STT%20%E2%86%92%20LLM%20%E2%86%92%20TTS%20%C2%B7%20sub-second%20is%20the%20goal;%F0%9F%8F%86%209%C3%97%20hackathon%20winner" alt="Real-time voice agents, 1,000+ concurrent AI interviews, Indic speech, paper reimplementations"/>
 </div>
 
 <!-- 🔗 Links -->
@@ -42,12 +42,12 @@
 I build **real-time voice agents**, and I'm chasing one question: **why do voice agents break on real Indian speech, and how do we fix it?**
 
 - 🏢 **Now:** Product Developer at [InCruiter](https://incruiter.com), leading the AI & real-time stack behind **InCBot** and **IncScreen**
+- 🏆 **9× hackathon winner** · CodeChef 3★ · before InCruiter: AI Engineer at myRide (Boston, remote)
 - ⚡ **Scale:** AI interviewers running **1,000+ concurrent interviews** in **42+ languages**
 - 🐛 **Found in prod:** English-only guards scored Devanagari **0.39 vs a 0.5 threshold**; Marathi STT **hallucinated in 10 of 15 turns**
 - 🔧 **Open source:** 11 merged fixes in [LiveKit](https://github.com/pulls?q=is%3Apr+author%3AANDROIDHASSAN+org%3Alivekit+is%3Amerged) (agents, python-sdks), [Piper TTS](https://github.com/OHF-Voice/piper1-gpl/pull/328), [Mastra](https://github.com/mastra-ai/mastra/pull/27102) and KoljaB's RealtimeSTT / RealtimeTTS / stream2sentence (Indic and Urdu text); [all merged PRs](https://github.com/pulls?q=is%3Apr+author%3AANDROIDHASSAN+is%3Amerged+-user%3AANDROIDHASSAN)
 - 🔭 **Building:** my own Hindi/Marathi STT + TTS + LLM and a from-scratch streaming orchestrator
 - 📄 **Learning:** rebuilding transformers, Whisper, VITS and Moshi from the original papers
-- 🏆 **Also:** 9× hackathon winner · CodeChef 3★ · AI Engineer at myRide (Boston, remote) before
 - 📫 **Reach me:** hassankazinasik@gmail.com
 
 </td>
