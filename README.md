@@ -33,6 +33,13 @@
 <img src="https://img.shields.io/github/followers/androidhassan?label=Followers&style=for-the-badge&color=3FB950" alt="Followers"/>
 </p>
 
+<a href="https://github.com/pulls?q=is%3Apr+author%3AANDROIDHASSAN+is%3Amerged+-user%3AANDROIDHASSAN">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/achievements-dark.svg">
+  <img alt="9x hackathon winner. 11 merged open-source fixes in LiveKit, Piper and Mastra. 1,000+ concurrent AI interviews in production. CodeChef 3 star." src="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/achievements-light.svg" width="100%">
+</picture>
+</a>
+
 <table align="center" width="100%">
 <tr>
 <td width="55%" valign="top">

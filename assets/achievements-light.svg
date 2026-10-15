@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="170" viewBox="0 0 840 170" role="img" aria-label="9x hackathon winner. 11 merged open-source fixes in LiveKit, Piper and Mastra. 1,000+ concurrent AI interviews in production. CodeChef 3 star.">
+<style>
+.tw{transform-box:fill-box;transform-origin:center;animation:tw 2.4s ease-in-out infinite}
+@keyframes tw{0%,100%{opacity:.15;transform:scale(.6)}50%{opacity:1;transform:scale(1)}}
+.sh{animation:sh 3.2s ease-in-out infinite}
+@keyframes sh{0%{transform:translateX(-140px)}60%,100%{transform:translateX(160px)}}
+.cup{transform-box:fill-box;transform-origin:50% 100%;animation:bob 3s ease-in-out infinite}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+@media (prefers-reduced-motion:reduce){.tw,.sh,.cup{animation:none}}
+</style>
+<defs>
+<linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e3b341"/><stop offset="1" stop-color="#bf8700"/></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="numclip"><text x="118" y="104" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="64" font-weight="800">9×</text></clipPath>
+</defs>
+<rect x="0.5" y="0.5" width="839" height="169" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="0.5" y="0.5" width="6" height="169" rx="3" fill="url(#gold)"/>
+<g class="cup">
+<path d="M44 46h44v22c0 16-10 28-22 28s-22-12-22-28z" fill="url(#gold)"/>
+<path d="M44 52h-9c0 13 6 20 13 21M88 52h9c0 13-6 20-13 21" fill="none" stroke="#bf8700" stroke-width="4" stroke-linecap="round"/>
+<rect x="61" y="95" width="10" height="14" fill="#bf8700"/>
+<rect x="49" y="108" width="34" height="9" rx="3" fill="url(#gold)"/>
+<path d="M66 58l3.5 7 7.5 1-5.5 5 1.5 7.5-7-3.8-7 3.8 1.5-7.5-5.5-5 7.5-1z" fill="#f6f8fa" opacity=".55"/>
+</g>
+<path class="tw" d="M100 36l2 5 5 2-5 2-2 5-2-5-5-2 5-2z" fill="#e3b341"/>
+<path class="tw" style="animation-delay:.8s" d="M30 118l1.5 3.5 3.5 1.5-3.5 1.5-1.5 3.5-1.5-3.5-3.5-1.5 3.5-1.5z" fill="#e3b341"/>
+<path class="tw" style="animation-delay:1.6s" d="M104 112l1.2 3 3 1.2-3 1.2-1.2 3-1.2-3-3-1.2 3-1.2z" fill="#0969da"/>
+<text x="118" y="104" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="64" font-weight="800" fill="url(#gold)">9×</text>
+<g clip-path="url(#numclip)"><rect class="sh" x="110" y="40" width="60" height="80" fill="url(#shine)"/></g>
+<text x="212" y="72" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="800" fill="#1f2328" letter-spacing="1.2">HACKATHON WINNER</text>
+<text x="212" y="98" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#59636e">ship a working demo, win</text>
+<line x1="462" y1="30" x2="462" y2="140" stroke="#d0d7de"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif">
+<rect x="482" y="28" width="338" height="34" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+<circle cx="500" cy="45" r="5" fill="#1a7f37"/>
+<text x="514" y="50" font-size="13.5" fill="#1f2328"><tspan font-weight="700">11 merged</tspan> OSS fixes · LiveKit · Piper · Mastra</text>
+<rect x="482" y="68" width="338" height="34" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+<circle cx="500" cy="85" r="5" fill="#0969da"/>
+<text x="514" y="90" font-size="13.5" fill="#1f2328"><tspan font-weight="700">1,000+</tspan> concurrent AI interviews in prod</text>
+<rect x="482" y="108" width="338" height="34" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+<circle cx="500" cy="125" r="5" fill="#bf8700"/>
+<text x="514" y="130" font-size="13.5" fill="#1f2328"><tspan font-weight="700">CodeChef 3★</tspan> · 42+ languages shipped</text>
+</g>
+</svg>
