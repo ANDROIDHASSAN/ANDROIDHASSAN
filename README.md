@@ -22,7 +22,7 @@
 
 <!-- ⌨️ Typing text -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=3FB950&center=true&vCenter=true&width=780&lines=%F0%9F%9F%A2%20Open%20to%20remote%20Voice%20AI%20%2F%20Agents%20roles;%E2%9A%A1%201%2C000%2B%20concurrent%20AI%20interviews%20in%20production;%F0%9F%94%A7%2015%20merged%20open-source%20fixes%20%C2%B7%207%20in%20LiveKit;%F0%9F%87%AE%F0%9F%87%B3%20Making%20voice%20AI%20understand%20Hindi%20%26%20Marathi;%F0%9F%93%84%207%20papers%20rebuilt%20from%20scratch%20in%20PyTorch;%F0%9F%8F%86%209%C3%97%20hackathon%20winner" alt="Open to remote Voice AI roles; 1,000+ concurrent AI interviews; 15 merged OSS fixes; Indic speech; 7 papers rebuilt; 9x hackathon winner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=3FB950&center=true&vCenter=true&width=780&lines=%F0%9F%9F%A2%20Open%20to%20remote%20Voice%20AI%20%2F%20Agents%20roles;%E2%9A%A1%201%2C000%2B%20concurrent%20AI%20interviews%20in%20production;%F0%9F%94%A7%2016%20merged%20open-source%20fixes%20%C2%B7%207%20in%20LiveKit;%F0%9F%87%AE%F0%9F%87%B3%20Making%20voice%20AI%20understand%20Hindi%20%26%20Marathi;%F0%9F%93%84%207%20papers%20rebuilt%20from%20scratch%20in%20PyTorch;%F0%9F%8F%86%209%C3%97%20hackathon%20winner" alt="Open to remote Voice AI roles; 1,000+ concurrent AI interviews; 16 merged OSS fixes; Indic speech; 7 papers rebuilt; 9x hackathon winner"/>
 </div>
 
 <!-- 🔗 Links -->
@@ -30,7 +30,7 @@
 <a href="mailto:hassankazinasik@gmail.com?subject=Role%20for%20Hassan%20Kazi"><img src="https://img.shields.io/badge/Hire%20me-3FB950?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Hire me"/></a>
 <a href="https://linkedin.com/in/erhassankazi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
 <a href="https://hassankazi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://github.com/pulls?q=is%3Apr+author%3AANDROIDHASSAN+is%3Amerged+-user%3AANDROIDHASSAN"><img src="https://img.shields.io/badge/Merged%20OSS%20PRs-15-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="15 merged open-source PRs"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3AANDROIDHASSAN+is%3Amerged+-user%3AANDROIDHASSAN"><img src="https://img.shields.io/badge/Merged%20OSS%20PRs-16-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="16 merged open-source PRs"/></a>
 <a href="https://leetcode.com/u/hassankazi"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://www.codechef.com/users/hassankazi"><img src="https://img.shields.io/badge/CodeChef%203★-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 3 star"/></a>
 </p>
@@ -38,7 +38,7 @@
 <a href="https://github.com/pulls?q=is%3Apr+author%3AANDROIDHASSAN+is%3Amerged+-user%3AANDROIDHASSAN">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/achievements-dark.svg">
-  <img alt="9x hackathon winner. 15 merged open-source fixes, 7 in LiveKit, plus Piper and Mastra. 1,000+ concurrent AI interviews in production. CodeChef 3 star." src="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/achievements-light.svg" width="100%">
+  <img alt="9x hackathon winner. 16 merged open-source fixes, 7 in LiveKit, plus Piper and Mastra. 1,000+ concurrent AI interviews in production. CodeChef 3 star." src="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/achievements-light.svg" width="100%">
 </picture>
 </a>
 
@@ -54,7 +54,7 @@
 <td width="33%" valign="top" align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="56" alt=""/>
 <h3>I fix the frameworks<br>I build on</h3>
-<p align="left"><b>15 merged PRs</b> in other people's repos, <b>7 of them in LiveKit</b> (<a href="https://github.com/pulls?q=is%3Apr+author%3AANDROIDHASSAN+org%3Alivekit+is%3Amerged">agents, python-sdks</a>). Every one starts with a test that fails on <code>main</code>: proof first, smallest fix second.</p>
+<p align="left"><b>16 merged PRs</b> in other people's repos, <b>7 of them in LiveKit</b> (<a href="https://github.com/pulls?q=is%3Apr+author%3AANDROIDHASSAN+org%3Alivekit+is%3Amerged">agents, python-sdks</a>). Every one starts with a test that fails on <code>main</code>: proof first, smallest fix second.</p>
 </td>
 <td width="33%" valign="top" align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="56" alt=""/>
@@ -90,7 +90,7 @@
 | **LiveKit python-sdks** | [#860](https://github.com/livekit/python-sdks/pull/860) · [#861](https://github.com/livekit/python-sdks/pull/861) · [#862](https://github.com/livekit/python-sdks/pull/862) · [#864](https://github.com/livekit/python-sdks/pull/864) · [#865](https://github.com/livekit/python-sdks/pull/865) | webhook `sha256` check · Twirp base path behind proxies · `AudioMixer` survives a slow input · correct I420A/I422/NV12 plane layout · `canSubscribeMetrics` grant |
 | **Piper TTS** (Open Home Foundation) | [#328](https://github.com/OHF-Voice/piper1-gpl/pull/328) | Hebrew voices get the Hebrew phonemizer in PyTorch inference |
 | **Mastra** | [#27102](https://github.com/mastra-ai/mastra/pull/27102) | Sarvam `listen()` uses the configured model; three more of my bug reports fixed by the team |
-| **RealtimeSTT / RealtimeTTS** | [#329](https://github.com/KoljaB/RealtimeSTT/pull/329) · [#330](https://github.com/KoljaB/RealtimeSTT/pull/330) · [#383](https://github.com/KoljaB/RealtimeTTS/pull/383) | Hindi/Bengali transcripts keep their final full stop · `feed_audio` on tiny chunks · ElevenLabs voice settings sent |
+| **RealtimeSTT / RealtimeTTS** | [#329](https://github.com/KoljaB/RealtimeSTT/pull/329) · [#330](https://github.com/KoljaB/RealtimeSTT/pull/330) · [#332](https://github.com/KoljaB/RealtimeSTT/pull/332) · [#383](https://github.com/KoljaB/RealtimeTTS/pull/383) | Hindi/Bengali transcripts keep their final full stop · `feed_audio` on tiny chunks · client auto-detects language · ElevenLabs voice settings sent |
 | **stream2sentence** | [#16](https://github.com/KoljaB/stream2sentence/pull/16) · [#17](https://github.com/KoljaB/stream2sentence/pull/17) · [#18](https://github.com/KoljaB/stream2sentence/pull/18) | Urdu sentences split at `۔` · the default tokenizer splits Hindi, Chinese and Arabic at `।` `。` `؟` · Chinese/Japanese sentences joined without a stray space |
 
 <p align="center"><a href="https://github.com/pulls?q=is%3Apr+author%3AANDROIDHASSAN+is%3Amerged+-user%3AANDROIDHASSAN">All merged PRs</a> · <a href="https://github.com/pulls?q=is%3Apr+author%3AANDROIDHASSAN+is%3Aopen+-user%3AANDROIDHASSAN">In review now</a> (LiveKit, Pipecat, NVIDIA NeMo, sherpa-onnx, Piper)</p>
