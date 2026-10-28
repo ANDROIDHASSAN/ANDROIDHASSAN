@@ -198,7 +198,6 @@ I build **real-time voice agents**, and I keep asking one question: **why do voi
 - [bhai](https://github.com/ANDROIDHASSAN/bhai) — Give it a repo, a ticket, or a task. Reproduces first, smallest fix, proves it,… · 2026-10-17
 - [portfolio](https://github.com/ANDROIDHASSAN/portfolio) — My portfolio (hassankazi.vercel.app) and the LiveKit voice agent behind its… · 2026-10-16
 - [post-training](https://github.com/ANDROIDHASSAN/post-training) — LoRA, DPO and GRPO implemented from scratch on a hand-written Llama/Qwen2… · 2026-10-14
-- [speculative-decoding](https://github.com/ANDROIDHASSAN/speculative-decoding) — Speculative sampling (Leviathan et al. 2023) from scratch on a hand-written… · 2026-10-14
 
 <!-- recent_pushes ends -->
 
