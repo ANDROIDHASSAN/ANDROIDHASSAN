@@ -197,7 +197,6 @@ I build **real-time voice agents**, and I keep asking one question: **why do voi
 - [portfolio](https://github.com/ANDROIDHASSAN/portfolio) — My portfolio (hassankazi.vercel.app) and the LiveKit voice agent behind its… · 2026-10-28
 - [The-Consistent-Coders](https://github.com/ANDROIDHASSAN/The-Consistent-Coders) — This is a inituative for beginners , freshers and freelancers to crack their… · 2026-10-25
 - [bhai](https://github.com/ANDROIDHASSAN/bhai) — Give it a repo, a ticket, or a task. Reproduces first, smallest fix, proves it,… · 2026-10-17
-- [post-training](https://github.com/ANDROIDHASSAN/post-training) — LoRA, DPO and GRPO implemented from scratch on a hand-written Llama/Qwen2… · 2026-10-14
 
 <!-- recent_pushes ends -->
 
