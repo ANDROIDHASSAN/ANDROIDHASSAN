@@ -195,7 +195,6 @@ I build **real-time voice agents**, and I keep asking one question: **why do voi
 <!-- recent_pushes starts -->
 
 - [portfolio](https://github.com/ANDROIDHASSAN/portfolio) — My portfolio (hassankazi.vercel.app) and the LiveKit voice agent behind its… · 2026-10-28
-- [The-Consistent-Coders](https://github.com/ANDROIDHASSAN/The-Consistent-Coders) — This is a inituative for beginners , freshers and freelancers to crack their… · 2026-10-25
 
 <!-- recent_pushes ends -->
 
