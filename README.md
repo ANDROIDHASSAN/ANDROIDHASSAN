@@ -93,7 +93,19 @@
 | **RealtimeSTT / RealtimeTTS** | [#329](https://github.com/KoljaB/RealtimeSTT/pull/329) · [#330](https://github.com/KoljaB/RealtimeSTT/pull/330) · [#332](https://github.com/KoljaB/RealtimeSTT/pull/332) · [#383](https://github.com/KoljaB/RealtimeTTS/pull/383) | Hindi/Bengali transcripts keep their final full stop · `feed_audio` on tiny chunks · client auto-detects language · ElevenLabs voice settings sent |
 | **stream2sentence** | [#16](https://github.com/KoljaB/stream2sentence/pull/16) · [#17](https://github.com/KoljaB/stream2sentence/pull/17) · [#18](https://github.com/KoljaB/stream2sentence/pull/18) | Urdu sentences split at `۔` · the default tokenizer splits Hindi, Chinese and Arabic at `।` `。` `؟` · Chinese/Japanese sentences joined without a stray space |
 
-<p align="center"><a href="https://github.com/pulls?q=is%3Apr+author%3AANDROIDHASSAN+is%3Amerged+-user%3AANDROIDHASSAN">All merged PRs</a> · <a href="https://github.com/pulls?q=is%3Apr+author%3AANDROIDHASSAN+is%3Aopen+-user%3AANDROIDHASSAN">In review now</a> (LiveKit, Pipecat, NVIDIA NeMo, sherpa-onnx, Piper)</p>
+<p align="center"><a href="https://github.com/pulls?q=is%3Apr+author%3AANDROIDHASSAN+is%3Amerged+-user%3AANDROIDHASSAN">All merged PRs</a> · <a href="https://github.com/pulls?q=is%3Apr+author%3AANDROIDHASSAN+is%3Aopen+-user%3AANDROIDHASSAN">In review now</a> (LiveKit, Pipecat, NVIDIA NeMo, sherpa-onnx, Piper, Lexsi Labs)</p>
+
+<h3 align="center">Accepted, release pending · Lexsi Labs</h3>
+
+<p align="center">The maintainer pulled these into release PRs as merge commits, so my commits and authorship are kept. Not on <code>main</code> until each release PR merges.</p>
+
+| Repo | My fix | Release PR | What the maintainer said |
+|:--|:--|:--|:--|
+| **AlignTune** | [#42](https://github.com/Lexsi-Labs/aligntune/pull/42) · [#43](https://github.com/Lexsi-Labs/aligntune/pull/43) | [#40](https://github.com/Lexsi-Labs/aligntune/pull/40) | `The answer is: 42.` grades right; GSM8K compares by value, so `$18`, `18%` and `3/4` grade right. Credited in the release notes. |
+| **SafeTune** | [#30](https://github.com/Lexsi-Labs/SafeTune/pull/30) · [#31](https://github.com/Lexsi-Labs/SafeTune/pull/31) | [#32](https://github.com/Lexsi-Labs/SafeTune/pull/32) | Same two grading fixes; the changelog credits me. |
+| **CircuitKIT** | [#22](https://github.com/Lexsi-Labs/CircuitKIT/pull/22) · [#23](https://github.com/Lexsi-Labs/CircuitKIT/pull/23) · [#24](https://github.com/Lexsi-Labs/CircuitKIT/pull/24) | [#25](https://github.com/Lexsi-Labs/CircuitKIT/pull/25) | a failed evaluation (NaN) is never picked as the best transfer · "you're right that the old Spearman formula is exact only without ties" · the `difficulty_impact` sign and its docstrings were backwards |
+| **AlignTune** issue | [#44](https://github.com/Lexsi-Labs/aligntune/issues/44) | [#40](https://github.com/Lexsi-Labs/aligntune/pull/40) | Counterfactual GRPO kept MATH answers as one digit; with the fix, 151 MATH-500 golds that graded wrong now grade right |
+| **AuditKIT** issue | [#17](https://github.com/Lexsi-Labs/AuditKIT/issues/17) | [#18](https://github.com/Lexsi-Labs/AuditKIT/pull/18) | `f1_score` uses the multiset (`Counter`) overlap I proposed, so identical text scores 1.0 |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANDROIDHASSAN/ANDROIDHASSAN/main/assets/divider-dark.svg">
