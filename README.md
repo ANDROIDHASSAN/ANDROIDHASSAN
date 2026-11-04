@@ -206,7 +206,7 @@ I build **real-time voice agents**, and I keep asking one question: **why do voi
 <h3>🕒 Recently pushed</h3>
 <!-- recent_pushes starts -->
 
-- [portfolio](https://github.com/ANDROIDHASSAN/portfolio) — My portfolio (hassankazi.vercel.app) and the LiveKit voice agent behind its… · 2026-10-28
+_Updates automatically every day from my public repos._
 
 <!-- recent_pushes ends -->
 
